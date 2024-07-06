@@ -34,9 +34,4 @@ To predict future sales of items by considering the 90 day sale.
 * Since Decision tree showed good performance compared to all three models, the prediction of 90 day sale for any future date is predicted by decision tree.
 * The user can give input as day, week and year for the prediction. 
 
-### Stay tuned
-
-* The model will be deployed via streamlit and heroku for better understanding with visualization and the link will be updated in this README file.
-
-
 
